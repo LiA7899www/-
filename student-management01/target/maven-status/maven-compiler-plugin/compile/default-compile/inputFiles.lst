@@ -1,0 +1,10 @@
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\config\SecurityConfig.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\controller\StudentController.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\model\Evaluation.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\model\LoginRequest.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\model\ResetPasswordRequest.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\model\Student.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\respository\EvaluationRepository.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\respository\StudentRepository.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\service\StudentService.java
+D:\softwareDesign\DBCodes\student-management01\src\main\java\com\example\studentmanagement01\StudentManagement01Application.java
